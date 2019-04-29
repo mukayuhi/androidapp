@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurent</string>
+    <string name="chairs">chairs</string>
+    <string name="tables">tables</string>
+    <string name="cupboard">cupboard</string>
+    <string name="food">food</string>
+    <string name="capati">capati</string>
+</resources>
